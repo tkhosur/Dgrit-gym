@@ -1,9 +1,9 @@
-#   GYM MANAGEMENT SYSTEM WITH SMS SUPPORT
+# GYM MANAGEMENT SYSTEM WITH SMS SUPPORT
 
-The D'Grit Gym Management System with SMS support is a desktop application aim to enhance the fitness center's communication efficiency, 
-streamline operations, and improve gym member management. The system includes a QR code for  member and employee attendance. With the use of SMS, 
-this creative system may provide timely attendance notifications, automate duties, and communicate with gym members via SMS, reminders for gym membership 
-plans,and analytics. Reduced operating costs, better communication, more satisfaction among members, improved security of information. 
+The D'Grit Gym Management System with SMS support is a desktop application aim to enhance the fitness center's communication efficiency,
+streamline operations, and improve gym member management. The system includes a QR code for  member and employee attendance. With the use of SMS,
+this creative system may provide timely attendance notifications, automate duties, and communicate with gym members via SMS, reminders for gym membership
+plans,and analytics. Reduced operating costs, better communication, more satisfaction among members, improved security of information.
 
 1. Attendance Management with SMS Support
 2. Account Management
@@ -14,18 +14,29 @@ plans,and analytics. Reduced operating costs, better communication, more satisfa
 7. Payment Monitoring(Dashboard)
 8. Integrate QR code attendance with SMS support
 
-# Requirements For Installation
+## Requirements For Installation
+
 - Pip install -r Requirements.txt
 - if it doesn't work, check the packages in setup.py and install them manually
-# IDE
+
+## IDE
+
 - Pycharm professional(Updated version) or VS Code (setup venv)
-# Language used
+
+## Language used
+
 - Python 3.11
-# Library
-- Tkinter/Customtkinter https://customtkinter.tomschimansky.com/
-# Database
+
+## Library
+
+- Tkinter/Customtkinter <https://customtkinter.tomschimansky.com/>
+
+## Database
+
 - SQLite 3
-# SMS API
+
+## SMS API
+
 - Semaphore (Subscribe to semaphore to get the API key)
 
   Note:
